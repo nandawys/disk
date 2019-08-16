@@ -1,0 +1,47 @@
+{
+	"info": {
+		"skinVersion": 1,
+		"appVersion": "2.5.80"
+	},
+
+	"theme": {
+		"statusbar_dark_theme": true
+	},
+
+	"colors": {
+		"home_bottombar_text_selected": "#1D1D1D",
+		"home_bottombar_text_unselected": "#999999",
+		"home_topbar_bg": "#AA0206",
+		"home_topbar_text_selected": "#F8D8A1",
+		"home_topbar_text_unselected": "#FFFFFF",
+		"home_searchbox_bg_normal": "#CCFFFFFF",
+		"home_searchbox_bg_hot": "#CCFFFFFF",
+		"home_searchbox_text_normal": "#FFFFFF",
+		"home_searchbox_text_hot": "#FFFFFF"
+	},
+	"images": {
+		"home_bottombar_community_selected": "home_bottombar_community_selected.png",
+		"home_bottombar_community_unselected": "home_bottombar_community_unselected.png",
+		"home_bottombar_follow_selected": "home_bottombar_follow_selected.png",
+		"home_bottombar_follow_unselected": "home_bottombar_follow_unselected.png",
+		"home_bottombar_main_selected": "home_bottombar_main_selected.png",
+		"home_bottombar_main_unselected": "home_bottombar_main_unselected.png",
+		"home_bottombar_mine_selected": "home_bottombar_mine_selected.png",
+		"home_bottombar_mine_unselected": "home_bottombar_mine_unselected.png",
+		"home_main_category_hot": "home_main_category_hot.png",
+		"home_main_category_normal": "home_main_category_normal.png",
+		"home_main_history": "home_main_history.png",
+		"home_main_logo_hot": "home_main_logo_hot.png",
+		"home_main_logo_normal": "home_main_logo_normal.png",
+		"home_main_rank_hot": "home_main_rank_hot.png",
+		"home_main_rank_normal": "home_main_rank_normal.png",
+		"home_main_search_hot": "home_main_search_hot.png",
+		"home_main_search_normal": "home_main_search_normal.png",
+		"home_main_subscribe_hot": "home_main_subscribe_hot.png",
+		"home_main_subscribe_normal": "home_main_subscribe_normal.png",
+		"follow_title_more_selected": "follow_title_more_selected.png",
+		"follow_title_more_unselected": "follow_title_more_unselected.png",
+		"home_bottombar_bg": "home_bottombar_bg.png",
+		"home_mine_topbar_bg": "home_mine_topbar_bg.png"
+	}
+}
